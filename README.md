@@ -4,7 +4,13 @@
 30th October 2025
 
 ### Project Title
+<<<<<<< HEAD
 Bikeshare project by Udacity
+||||||| 0cfd1a7
+Bikeshare project
+=======
+Ultimate Bikeshare project by Joschka
+>>>>>>> documentation
 
 ### Description
 <<<<<<< HEAD
@@ -22,5 +28,5 @@ new_york.csv
 washington.csv
 
 ### Credits
-All credits go to Udacity
+All credits go to Udacity and myself for creating this :D
 
