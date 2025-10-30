@@ -7,7 +7,7 @@
 Bikeshare project by Udacity
 
 ### Description
-Analysis of bikeshare data
+Analysis of bikeshare data from the US
 
 ### Files used
 bikeshare.py

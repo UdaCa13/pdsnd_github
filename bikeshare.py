@@ -28,7 +28,7 @@ def get_filters():
                 print("Invalid city. Please choose from Chicago, New York City, or Washington.")
 
 
-    # get user input for month (all, january, february, ... , june)
+    # get user input for month (all, january, february, ... , june) to filter
     valid_months = ['january', 'february', 'march', 'april', 'may', 'june', 'all']
     while True:
         month = input("From which month do you want to see the data from?\n").lower()
