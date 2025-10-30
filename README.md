@@ -7,7 +7,7 @@
 Bikeshare project
 
 ### Description
-Analysis of bikeshare data
+Analysis of bikeshare data from differnt cities in the USA
 
 ### Files used
 bikeshare.py
