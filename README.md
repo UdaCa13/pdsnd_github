@@ -4,7 +4,7 @@
 30th October 2025
 
 ### Project Title
-Bikeshare project
+Ultimate Bikeshare project by Joschka
 
 ### Description
 Analysis of bikeshare data from differnt cities in the USA
@@ -16,5 +16,5 @@ new_york.csv
 washington.csv
 
 ### Credits
-All credits go to Udacity
+All credits go to Udacity and myself for creating this :D
 
