@@ -4,7 +4,7 @@
 30th October 2025
 
 ### Project Title
-Bikeshare project
+Bikeshare project by Udacity
 
 ### Description
 Analysis of bikeshare data
