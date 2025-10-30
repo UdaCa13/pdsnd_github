@@ -4,22 +4,10 @@
 30th October 2025
 
 ### Project Title
-<<<<<<< HEAD
-Bikeshare project by Udacity
-||||||| 0cfd1a7
-Bikeshare project
-=======
 Ultimate Bikeshare project by Joschka
->>>>>>> documentation
 
 ### Description
-<<<<<<< HEAD
-Analysis of bikeshare data from the US
-||||||| 97c20bd
-Analysis of bikeshare data
-=======
 Analysis of bikeshare data from differnt cities in the USA
->>>>>>> documentation
 
 ### Files used
 bikeshare.py
